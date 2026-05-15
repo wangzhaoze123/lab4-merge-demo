@@ -1,2 +1,3 @@
 Hello, Merge Request!
 This line is from the new branch.
+Second commit for rebase test
